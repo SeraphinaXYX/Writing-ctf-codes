@@ -1,3 +1,3 @@
 # Writing-ctf-codes
 
-CTF 解题代码与脚本合集。
+I will feel more comfortable if I type everything by my own, not the AI.
